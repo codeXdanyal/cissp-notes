@@ -270,3 +270,64 @@ Third parties with access to company systems must also follow security policies.
 
 ### Key Takeaway:
 Personnel security policies and procedures protect the organization from insider threats, ensure compliance, and maintain a secure work environment. Screening, clear agreements, proper onboarding, role changes, and controlled termination are essential to managing human risk effectively.
+
+
+## 1.9 Understand and Apply Risk Management Concepts
+### What It Means:
+Risk management is the process of identifying, evaluating, and addressing potential threats to an organization’s information and systems. Its goal is to reduce the likelihood and impact of negative events while supporting business objectives. Effective risk management is continuous and involves people, processes, and technology.
+
+### Threat and Vulnerability Identification:
+Threats are potential events that can cause harm, while vulnerabilities are weaknesses that can be exploited. Identifying both is the first step in managing risk.  
+
+<mark>**Example:**</mark> A threat could be a hacker attempting to steal customer data, and a vulnerability could be outdated software that can be easily exploited.
+
+### Risk Analysis, Assessment, and Scope:
+Risk analysis evaluates the potential impact and likelihood of threats exploiting vulnerabilities. Assessment defines how serious a risk is and which assets it affects. Scope determines which systems, processes, or data are included in the evaluation.  
+
+<mark>**Example:**</mark> Assessing the risk of a ransomware attack on company servers, considering how much downtime and financial loss it would cause.
+
+### Risk Response and Treatment:
+After assessing risks, organizations decide how to handle them. Common strategies include:
+   - **Accept**: Acknowledge the risk without action if it is minor.
+   - **Avoid**: Change processes to eliminate the risk.
+   - **Mitigate**: Implement controls to reduce risk.
+   - **Transfer**: Shift risk to another party, like using cybersecurity insurance.  
+
+<mark>**Example:**</mark> Purchasing cybersecurity insurance to cover potential losses from a data breach is a form of risk transfer.
+
+### Applicable Types of Controls:
+   - **Preventive Controls:** Stop incidents before they occur (e.g., firewalls, access controls).
+   - **Detective Controls:** Identify incidents as they happen (e.g., intrusion detection systems).
+   - **Corrective Controls:** Fix or limit damage after an incident (e.g., backups, patching).
+
+### Control Assessments: Security and Privacy:
+Regularly evaluating controls ensures they are effective. Security assessments check technical protections, while privacy assessments ensure personal data is handled correctly.  
+
+<mark>**Example:**</mark> Conducting an audit to verify that encryption is correctly applied to sensitive customer data.
+
+### Continuous Monitoring and Measurement:
+Risk management is ongoing. Organizations must continuously track threats, vulnerabilities, and control effectiveness.  
+
+<mark>**Example:**</mark> Using automated monitoring tools to detect unusual network activity in real time.
+
+
+### Reporting: Internal and External:
+Organizations must communicate risk findings to relevant stakeholders. Internal reports inform management for decision-making, while external reports may be required for regulators or clients.  
+
+<mark>**Example:**</mark> A quarterly risk report may highlight new vulnerabilities and the status of mitigation efforts.
+
+### Continuous Improvement: Risk Maturity Modeling:
+Organizations should evolve their risk management processes over time, aiming for higher maturity and more proactive risk handling.  
+
+<mark>**Example:**</mark> Moving from basic checklist audits to automated, predictive risk analytics represents improved maturity.
+
+### Risk Frameworks:
+Structured frameworks help guide risk management practices. Common frameworks include:
+   - **ISO 31000 / ISO 27005** – International risk management standards.
+   - **NIST** – Guidelines for cybersecurity risk.
+   - **COBIT** – IT governance and control framework.
+   - **SABSA** – Security architecture framework.
+   - **PCI DSS** – Payment card industry standards.
+
+### Key Takeaway:
+Risk management is about identifying what can go wrong, evaluating its impact, and applying the right controls to protect the organization. Continuous monitoring, reporting, and improvement, guided by recognized frameworks, ensure that risks are managed effectively over time.
