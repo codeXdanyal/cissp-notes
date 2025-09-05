@@ -1,49 +1,21 @@
 # Domain 1: Security and Risk Management
 
-# 1.1 Understand, adhere to, and promote professional ethics
+## 1.1 Understand, Adhere to, and Promote Professional Ethics
 
-Professional ethics are rules that guide cybersecurity professionals to act responsibly and honestly. They ensure trust, integrity, and accountability in the work environment.
+### What It Means:
+Professional ethics are like a set of rules or a moral compass for anyone working in cybersecurity. They guide how you behave, what decisions you make, and how you interact with colleagues, clients, and the public. Following ethics is not just about avoiding trouble—it builds trust and credibility, which is crucial in security work.
 
-### 1) ISC² Code of Professional Ethics
-- A global standard for CISSP-certified professionals.
-- Instructs you to act with integrity, respect confidentiality, protect information, and comply with laws.
+### [ISC² Code of Professional Ethics](https://www.isc2.org/ethics)
+ISC² (the organization behind CISSP) has its own **Code of Ethics**. Think of it as the “gold standard” for cybersecurity professionals worldwide. The main idea is that you must act honestly, treat others fairly, and prioritize the security and well-being of people and organizations.  
+**Example:** If you find a serious security flaw in your company’s system, the ethical approach is to report it responsibly rather than exploiting it for personal gain.
 
-### 2) Organizational Code of Ethics
-- Each company may have its own set of ethics, like policies on confidentiality, acceptable use of resources, and reporting security issues.
+### Organizational Code of Ethics 
+Many companies also have their own **internal ethics policies**. These can include rules on confidentiality, data handling, workplace behavior, and reporting incidents. Adhering to these ensures you are aligned with your employer’s expectations while maintaining professional integrity.  
+<mark>**Example:**</mark> Your company may have a policy that prohibits sharing internal client data. Even if you are trusted, following this rule is part of professional ethics.
 
-### Example
-- **ISC² Ethics:** Discovering a vulnerability in a client’s system means you report it, rather than exploiting it.
-- **Organizational Ethics:** Company policy may require encrypting sensitive data before storing it on shared drives.
+### Promoting Ethics 
+Being ethical isn’t just about following rules yourself; it’s also about encouraging your team or peers to do the same. This can involve mentoring, sharing ethical guidelines, and setting a good example. Organizations with strong ethical cultures tend to have fewer security breaches caused by insider mistakes.  
+**Example:** If a teammate is tempted to take shortcuts that risk security, you could remind them of the ethical standards and suggest a safer approach.
 
-### Tip/Important Point
-Follow both ISC² ethics and your organization’s code. Ethics protect you, your employer, and the data you manage.
-
-# 1.2 Understand and apply security concepts
-
-Security concepts are the basic ideas that protect information from being stolen, changed, or lost. The five pillars of information security are:
-
-### 1) Confidentiality
-- Keeping information secret so only authorized people can access it.
-
-### 2) Integrity
-- Making sure information is accurate and not tampered with.
-
-### 3) Availability
-- Ensuring information is accessible when needed.
-
-### 4) Authenticity
-- Verifying that data, users, or systems are genuine.
-
-### 5) Non-repudiation
-- Ensuring that someone cannot deny sending or receiving information.
-
-### Example
-- **Confidentiality:** Using a password to protect your email account.
-- **Integrity:** Using a checksum to verify that a downloaded file hasn’t been altered.
-- **Availability:** Cloud backups ensure your files are available even if your computer crashes.
-- **Authenticity:** Digital certificates verify a website is legitimate before you enter your card details.
-- **Non-repudiation:** Email services keep logs so the sender cannot deny sending an important contract.
-
-### Tip/Important Point
-Think of the five pillars as a security checklist: Protect information from the wrong people, keep it correct, make it available, verify it, and ensure actions can’t be denied.
-
+### Key Takeaway 
+Ethics is the foundation of trust in cybersecurity. Knowing both the **ISC² Code of Ethics** and your **organization’s policies**, following them consistently, and encouraging others to do the same is just as important as technical skills.
