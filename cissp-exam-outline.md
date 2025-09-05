@@ -94,3 +94,4 @@ CISSP (Certified Information Systems Security Professional) is a cybersecurity c
 - Periodic content reviews: emerging technologies and trends (cryptocurrency, AI, blockchain)
 - Program effectiveness evaluation
 
+More domains will be added soon.
