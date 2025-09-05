@@ -241,4 +241,32 @@ Once critical functions and dependencies are identified, organizations prioritiz
 <mark>**Example:**</mark> An e-commerce company may implement redundant servers, automated backups, and emergency communication plans to ensure that customers can continue shopping even if one system fails.
 
 ### Key Takeaway:
-Business Continuity planning ensures that critical operations continue during unexpected events. Performing a BIA, assessing external dependencies, and prioritizing recovery efforts are essential steps to reduce downtime, minimize financial loss, and maintain customer trust.
+Business Continuity planning ensures that critical operations continue during unexpected events. Performing a BIA, assessing external dependencies, and #prioritizing recovery efforts are essential steps to reduce downtime, minimize financial loss, and maintain customer trust.
+
+## 1.8 Contribute to and Enforce Personnel Security Policies and Procedures
+
+### What It Means:
+Personnel security focuses on ensuring that people who have access to organizational resources are trustworthy and follow security policies. It involves managing employees, contractors, and vendors throughout their lifecycle in the organization to reduce insider threats and maintain compliance.
+
+### Candidate Screening and Hiring:
+Organizations should screen candidates to verify their background, qualifications, and trustworthiness before granting access to sensitive information.  
+
+<mark>**Example:**</mark> Performing reference checks, criminal background verification, or skill assessments before hiring a system administrator who will manage critical servers.
+
+### Employment Agreements and Policy-Driven Requirements:
+Employment contracts and policies define employee responsibilities, acceptable behavior, and security obligations. Clear agreements help set expectations and provide legal protection.  
+
+<mark>**Example:**</mark> An employment agreement may require staff to adhere to confidentiality policies and refrain from sharing company data outside the organization.
+
+### Onboarding, Transfers, and Termination Processes:
+Personnel security requires controlling access throughout an employee’s tenure. Onboarding ensures proper access is granted; transfers require reviewing access based on new roles; termination ensures all access is revoked promptly.  
+
+<mark>**Example:**</mark> When an employee leaves the company, IT must immediately disable system accounts and collect company devices to prevent unauthorized access.
+
+### Vendor, Consultant, and Contractor Agreements and Controls:
+Third parties with access to company systems must also follow security policies. Contracts should define responsibilities, access limits, and security obligations.  
+
+<mark>**Example:**</mark> A contractor providing cloud services must sign a data protection agreement and follow the organization’s security controls when handling sensitive data.
+
+### Key Takeaway:
+Personnel security policies and procedures protect the organization from insider threats, ensure compliance, and maintain a secure work environment. Screening, clear agreements, proper onboarding, role changes, and controlled termination are essential to managing human risk effectively.
