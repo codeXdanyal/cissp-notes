@@ -330,4 +330,48 @@ Structured frameworks help guide risk management practices. Common frameworks in
    - **PCI DSS** – Payment card industry standards.
 
 ### Key Takeaway:
-Risk management is about identifying what can go wrong, evaluating its impact, and applying the right controls to protect the organization. Continuous monitoring, reporting, and improvement, guided by recognized frameworks, ensure that risks are managed effectively over time.
+Risk management is about identifying what can go wrong, evaluating its impact, and applying the right controls to protect the organization. Continuous monitoring, reporting, and improvement, guided by recognized frameworks, ensure that risks are managed effectively over time.  
+
+## 1.10 Understand and Apply Threat Modeling Concepts and Methodologies
+### What It Means:
+Threat modeling is a proactive approach to identifying potential threats and vulnerabilities in a system before they can be exploited. It helps organizations anticipate attacks, prioritize risks, and design stronger defenses. Essentially, it’s like thinking like a hacker to prevent problems before they happen.
+
+### Core Concept:
+Threat modeling involves analyzing systems, applications, or processes to understand what could go wrong, who might exploit it, and what impact it could have. This analysis helps guide security decisions and resource allocation.  
+
+<mark>**Example:**</mark> Before launching a new mobile app, a company might analyze potential threats such as unauthorized access, data leakage, or phishing attacks targeting users.
+### Methodologies:
+There are several common methodologies used in threat modeling:
+ ### STRIDE:
+Focuses on six categories of threats:
+   - **Spoofing:** Pretending to be someone else.
+   - **Tampering:** Altering data or systems.
+   - **Repudiation:** Denying actions taken.
+   - **Information Disclosure:** Exposing sensitive data.
+   - **Denial of Service (DoS):** Disrupting system availability.
+   - **Elevation of Privilege:** Gaining higher access than allowed.  
+   
+   
+   <mark>**Example:**</mark> Using STRIDE, a web application team might identify that password reset functionality could be exploited for spoofing attacks.  
+
+### PASTA (Process for Attack Simulation and Threat Analysis):
+A risk-centric methodology that simulates attacks to understand real-world impact and prioritize mitigations.  
+
+<mark>**Example:**</mark> PASTA might reveal that attackers could combine multiple vulnerabilities to access sensitive customer data.  
+
+### OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation):
+Focuses on organizational risk, identifying critical assets, and understanding operational impacts.  
+
+<mark>**Example:**</mark> An OCTAVE assessment may show that customer databases are high-value assets and require stronger access controls.
+
+### Threat Modeling Steps:
+   1. **Identify Assets:** Determine what needs protection.
+   2. **Identify Threats:** Consider potential attackers and attack vectors.
+   3. **Identify Vulnerabilities:** Find weaknesses in systems or processes.
+   4. **Analyze Impact:** Assess the potential damage if exploited.
+   5. **Define Mitigation Strategies:** Plan controls to reduce risk.  
+
+<mark>**Example:**</mark> For a cloud storage service, assets include user files, threats include hackers and insiders, vulnerabilities may be weak passwords, and mitigation could include multi-factor authentication and encryption.
+
+### Key Takeaway:
+Threat modeling is a structured way to think like an attacker to protect systems proactively. Using methodologies like STRIDE, PASTA, and OCTAVE helps organizations identify risks early, prioritize defenses, and strengthen overall security posture.
