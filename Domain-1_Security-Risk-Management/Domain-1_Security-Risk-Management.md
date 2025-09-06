@@ -1,4 +1,6 @@
-# Domain 1: Security and Risk Management
+# Domain 1: Security and Risk Management  
+**_Weightage:_** _16%_
+
 
 ### Table of Contents  
 | Topics                                                                                                                                                                        |
