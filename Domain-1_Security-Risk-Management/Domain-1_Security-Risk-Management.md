@@ -2,7 +2,7 @@
 
 ### Table of Contents  
 | Topics                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [1.1 Understand, Adhere to, and Promote Professional Ethics](#11-understand-adhere-to-and-promote-professional-ethics)                                                                     |
 | [1.2 Understand and Apply Security Concepts](#12-understand-and-apply-security-concepts)                                                                                                   |
 | [1.3 Evaluate and Apply Security Governance Principles](#13-evaluate-and-apply-security-governance-principles)                                                                             |
