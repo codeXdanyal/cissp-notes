@@ -1,6 +1,6 @@
 # Domain 1: Security and Risk Management
 
-### Table of content :  
+### Table of Contents  
 | Topics                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [1.1 Understand, Adhere to, and Promote Professional Ethics](#11-understand-adhere-to-and-promote-professional-ethics)                                                                     |
