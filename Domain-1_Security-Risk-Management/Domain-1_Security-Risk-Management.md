@@ -1,6 +1,6 @@
 # Domain 1: Security and Risk Management
 
-## 1.1 Understand, Adhere to, and Promote Professional Ethics
+### 1.1 Understand, Adhere to, and Promote Professional Ethics
 
 ### What It Means:
 
@@ -27,8 +27,8 @@ Being ethical isn’t just about following rules yourself; it’s also about enc
 ### Key Takeaway
 
 Ethics is the foundation of trust in cybersecurity. Knowing both the **ISC² Code of Ethics** and your **organization’s policies**, following them consistently, and encouraging others to do the same is just as important as technical skills.
-
-## 1.2 Understand and Apply Security Concepts
+#
+### 1.2 Understand and Apply Security Concepts
 
 ### What It Means:
 
@@ -65,7 +65,8 @@ Security concepts are the basic principles that guide how we protect information
 
 The 5 pillars—Confidentiality, Integrity, Availability, Authenticity, and Nonrepudiation—are the core principles that guide security decisions. Together, they help ensure information is protected, trustworthy, and reliably accessible
 
-## 1.3 Evaluate and Apply Security Governance Principles
+#
+### 1.3 Evaluate and Apply Security Governance Principles
 
 ### What It Means:
 
@@ -112,8 +113,8 @@ Due care is about taking reasonable steps to protect assets, while due diligence
 
 Security governance ensures that security is not an afterthought but a strategic part of business operations. By aligning security with business goals, defining roles, applying frameworks, and practicing due care and due diligence, organizations can reduce risk and operate securely.
 
-
-## 1.4 Understand Legal, Regulatory, and Compliance Issues
+#
+### 1.4 Understand Legal, Regulatory, and Compliance Issues
 ### What It Means:
 Legal, regulatory, and compliance issues define the rules organizations must follow when handling information. Understanding these rules helps prevent lawsuits, fines, or damage to reputation. In cybersecurity, this often overlaps with protecting data, respecting privacy, and following industry standards.  
 
@@ -155,7 +156,8 @@ Organizations must also follow contracts, local laws, industry standards (like P
 ### Key Takeaway:
 Understanding legal, regulatory, and compliance issues ensures that security practices align with the law and industry standards. This protects the organization from legal trouble, maintains trust with clients, and ensures responsible handling of data.  
 
-## 1.5 Understand Requirements for Investigation Types
+#
+### 1.5 Understand Requirements for Investigation Types
 ### What It Means:
 In cybersecurity, investigations are conducted when something goes wrong, such as a breach, policy violation, or suspected crime. Understanding the types of investigations helps you know what rules to follow, how evidence must be handled, and who is responsible for conducting it.
 
@@ -187,7 +189,8 @@ Some industries have their own rules and guidelines. Investigations may be condu
 ### Key Takeaway:
 Different investigations serve different purposes—internal accountability, criminal enforcement, civil resolution, regulatory oversight, or industry compliance. Knowing the type of investigation helps ensure proper procedures are followed, evidence is handled correctly, and legal or policy obligations are met.
 
-## 1.6 Develop, Document, and Implement Security Policy, Standards, Procedures, and Guidelines
+#
+### 1.6 Develop, Document, and Implement Security Policy, Standards, Procedures, and Guidelines
 
 ### What It Means:
 Security policies, standards, procedures, and guidelines are the building blocks of an organization’s security program. They provide clear instructions on how to protect information, ensure compliance, and guide employees in their day-to-day activities. Together, they create a structured approach to reducing risk and maintaining security.
@@ -220,7 +223,8 @@ Developing these documents is not enough—they must be effectively communicated
 ### Key Takeaway:
 Policies, standards, procedures, and guidelines work together to create a clear framework for security. Policies define “what” and “why,” standards define “what exactly,” procedures define “how,” and guidelines provide helpful advice. Proper development, documentation, and implementation ensure that security practices are understood, followed, and effective.
 
-## 1.7 Identify, Analyze, Assess, Prioritize, and Implement Business Continuity (BC) Requirements
+#
+### 1.7 Identify, Analyze, Assess, Prioritize, and Implement Business Continuity (BC) Requirements
 
 ### What It Means:
 Business Continuity (BC) is about ensuring that an organization can continue operating during and after a disruption, such as natural disasters, cyberattacks, or system failures. Identifying and prioritizing BC requirements ensures that critical business functions remain available and losses are minimized.
@@ -243,7 +247,8 @@ Once critical functions and dependencies are identified, organizations prioritiz
 ### Key Takeaway:
 Business Continuity planning ensures that critical operations continue during unexpected events. Performing a BIA, assessing external dependencies, and #prioritizing recovery efforts are essential steps to reduce downtime, minimize financial loss, and maintain customer trust.
 
-## 1.8 Contribute to and Enforce Personnel Security Policies and Procedures
+#
+### 1.8 Contribute to and Enforce Personnel Security Policies and Procedures
 
 ### What It Means:
 Personnel security focuses on ensuring that people who have access to organizational resources are trustworthy and follow security policies. It involves managing employees, contractors, and vendors throughout their lifecycle in the organization to reduce insider threats and maintain compliance.
@@ -271,8 +276,8 @@ Third parties with access to company systems must also follow security policies.
 ### Key Takeaway:
 Personnel security policies and procedures protect the organization from insider threats, ensure compliance, and maintain a secure work environment. Screening, clear agreements, proper onboarding, role changes, and controlled termination are essential to managing human risk effectively.
 
-
-## 1.9 Understand and Apply Risk Management Concepts
+#
+### 1.9 Understand and Apply Risk Management Concepts
 ### What It Means:
 Risk management is the process of identifying, evaluating, and addressing potential threats to an organization’s information and systems. Its goal is to reduce the likelihood and impact of negative events while supporting business objectives. Effective risk management is continuous and involves people, processes, and technology.
 
@@ -332,7 +337,8 @@ Structured frameworks help guide risk management practices. Common frameworks in
 ### Key Takeaway:
 Risk management is about identifying what can go wrong, evaluating its impact, and applying the right controls to protect the organization. Continuous monitoring, reporting, and improvement, guided by recognized frameworks, ensure that risks are managed effectively over time.  
 
-## 1.10 Understand and Apply Threat Modeling Concepts and Methodologies
+#
+### 1.10 Understand and Apply Threat Modeling Concepts and Methodologies
 ### What It Means:
 Threat modeling is a proactive approach to identifying potential threats and vulnerabilities in a system before they can be exploited. It helps organizations anticipate attacks, prioritize risks, and design stronger defenses. Essentially, it’s like thinking like a hacker to prevent problems before they happen.
 
@@ -342,7 +348,8 @@ Threat modeling involves analyzing systems, applications, or processes to unders
 <mark>**Example:**</mark> Before launching a new mobile app, a company might analyze potential threats such as unauthorized access, data leakage, or phishing attacks targeting users.
 ### Methodologies:
 There are several common methodologies used in threat modeling:
- ### STRIDE:
+
+#### 1. STRIDE:
 Focuses on six categories of threats:
    - **Spoofing:** Pretending to be someone else.
    - **Tampering:** Altering data or systems.
@@ -354,12 +361,12 @@ Focuses on six categories of threats:
    
    <mark>**Example:**</mark> Using STRIDE, a web application team might identify that password reset functionality could be exploited for spoofing attacks.  
 
-### PASTA (Process for Attack Simulation and Threat Analysis):
+#### 2. PASTA (Process for Attack Simulation and Threat Analysis):
 A risk-centric methodology that simulates attacks to understand real-world impact and prioritize mitigations.  
 
 <mark>**Example:**</mark> PASTA might reveal that attackers could combine multiple vulnerabilities to access sensitive customer data.  
 
-### OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation):
+#### 3. OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation):
 Focuses on organizational risk, identifying critical assets, and understanding operational impacts.  
 
 <mark>**Example:**</mark> An OCTAVE assessment may show that customer databases are high-value assets and require stronger access controls.
@@ -375,3 +382,84 @@ Focuses on organizational risk, identifying critical assets, and understanding o
 
 ### Key Takeaway:
 Threat modeling is a structured way to think like an attacker to protect systems proactively. Using methodologies like STRIDE, PASTA, and OCTAVE helps organizations identify risks early, prioritize defenses, and strengthen overall security posture.
+
+#
+### 1.11 Apply Supply Chain Risk Management (SCRM) Concepts
+### What It Means:  
+Supply Chain Risk Management (SCRM) is about identifying and managing risks that come from external suppliers, vendors, and service providers. Organizations rely on third parties for products, software, and services, and any compromise in the supply chain can affect security, reliability, and trust.
+
+### Risks in the Supply Chain:
+Products or services from suppliers can be vulnerable to tampering, counterfeits, or malicious implants. Even software components may contain hidden vulnerabilities that could compromise the organization.  
+
+<mark>**Example:**</mark> A company purchasing network devices from a third-party vendor could unknowingly receive equipment with pre-installed malware or counterfeit parts that fail early.
+
+### Risk Mitigations:
+To reduce supply chain risks, organizations can implement several strategies:
+#### 1. Third-Party Assessment and Monitoring:
+Regularly evaluate suppliers to ensure they meet security and quality standards. Continuous monitoring helps detect changes or risks over time.  
+
+<mark>**Example:**</mark> Conducting security audits on a cloud service provider before and during the contract period.
+
+#### 2. Minimum Security Requirements:
+Set clear security expectations for suppliers, including secure development practices and data protection standards.  
+
+<mark>**Example:**</mark> Requiring that all software delivered by vendors be free of known vulnerabilities and follow secure coding practices.
+
+#### 3. Service Level Requirements (SLRs):
+Define performance and security expectations in contracts to ensure suppliers meet organizational needs.  
+
+<mark>**Example:**</mark> A cloud storage provider may have an SLR guaranteeing 99.9% uptime and timely patching of security vulnerabilities.
+
+#### 4. Silicon Root of Trust and Physically Unclonable Function (PUF):
+These are hardware-based security measures that verify device authenticity and prevent tampering.  
+
+<mark>**Example:**</mark> A secure chip in a server ensures that only trusted firmware can run, reducing risk from counterfeit components.
+
+#### 5. Software Bill of Materials (SBOM):
+A list of all software components used in a product. This transparency helps organizations identify vulnerabilities and manage risk.  
+
+<mark>**Example:**</mark> Reviewing an SBOM before deploying a third-party application to ensure it doesn’t include outdated or insecure libraries.
+
+### Key Takeaway:
+SCRM ensures that external suppliers and third-party products do not introduce security risks. By assessing suppliers, defining security requirements, monitoring compliance, and using hardware and software verification techniques, organizations can maintain a trustworthy and secure supply chain.
+
+## 
+### 1.12 Establish and Maintain a Security Awareness, Education, and Training Program
+### What It Means:
+Security awareness, education, and training programs are designed to teach employees how to recognize and respond to security threats. Humans are often the weakest link in cybersecurity, so educating staff reduces mistakes, prevents breaches, and fosters a culture of security.
+
+### Methods and Techniques:
+Social Engineering:
+Teaching employees to recognize attempts to manipulate them into revealing confidential information.  
+
+<mark>**Example:**</mark> Training staff to spot phishing emails that ask for login credentials or personal information.
+
+#### 1. Phishing Simulations:
+Running controlled phishing exercises to test employee awareness and response.  
+
+<mark>**Example:**</mark> Sending fake phishing emails to employees and providing feedback when someone clicks a suspicious link.
+
+#### 2. Security Champions:
+Identifying motivated employees in different teams who advocate for security best practices and mentor peers.  
+
+<mark>**Example:**</mark> A developer in the IT team promotes secure coding practices and helps colleagues understand risks.
+
+#### 3. Gamification:
+Using interactive games or challenges to make learning about security fun and engaging.  
+
+<mark>**Example:**</mark> Quizzes or reward-based challenges on password management and safe browsing practices.
+
+#### 4. Periodic Content Reviews:
+Security threats evolve, so training programs must stay updated with emerging technologies and trends, like cryptocurrency security, AI vulnerabilities, or blockchain risks.  
+
+<mark>**Example:**</mark> Updating modules to cover risks in cryptocurrency transactions or AI-powered phishing attacks.
+
+#### 5. Program Effectiveness Evaluation:
+Organizations must measure the impact of training programs to ensure they are improving employee behavior and reducing risks.  
+
+<mark>**Example:**</mark> Tracking the percentage of employees who successfully identify phishing simulations or monitoring incident reports before and after training.
+
+### Key Takeaway:
+A strong security awareness, education, and training program empowers employees to act as the first line of defense. Using a mix of teaching methods, staying current with emerging threats, and evaluating program effectiveness ensures that the workforce remains vigilant and security-conscious.
+
+#
