@@ -21,7 +21,7 @@ CISSP (Certified Information Systems Security Professional) is a cybersecurity c
 ## CISSP CAT Examination Weights
 
 | Domain | Average Weight |
-|--------|----------------|
+|:--------|:----------------|
 | 1. Security and Risk Management | 16% |
 | 2. Asset Security | 10% |
 | 3. Security Architecture and Engineering | 13% |
