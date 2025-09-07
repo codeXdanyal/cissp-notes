@@ -3,20 +3,20 @@
 
 
 ### Table of Contents  
-| Topics                                                                                                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [1.1 Understand, Adhere to, and Promote Professional Ethics](#11-understand-adhere-to-and-promote-professional-ethics)                                                                     |
-| [1.2 Understand and Apply Security Concepts](#12-understand-and-apply-security-concepts)                                                                                                   |
-| [1.3 Evaluate and Apply Security Governance Principles](#13-evaluate-and-apply-security-governance-principles)                                                                             |
-| [1.4 Understand Legal, Regulatory, and Compliance Issues](#14-understand-legal-regulatory-and-compliance-issues)                                                                           |
-| [1.5 Understand Requirements for Investigation Types](#15-understand-requirements-for-investigation-types)                                                                                 |
-| [1.6 Develop, Document, and Implement Security Policy, Standards, Procedures, and Guidelines](#16-develop-document-and-implement-security-policy-standards-procedures-and-guidelines)      |
-| [1.7 Identify, Analyze, Assess, Prioritize, and Implement Business Continuity (BC) Requirements](#17-identify-analyze-assess-prioritize-and-implement-business-continuity-bc-requirements) |
-| [1.8 Contribute to and Enforce Personnel Security Policies and Procedures](#18-contribute-to-and-enforce-personnel-security-policies-and-procedures)                                       |
-| [1.9 Understand and Apply Risk Management Concepts](#19-understand-and-apply-risk-management-concepts)                                                                                     |
-| [1.10 Understand and Apply Threat Modeling Concepts and Methodologies](#110-understand-and-apply-threat-modeling-concepts-and-methodologies)                                               |
-| [1.11 Apply Supply Chain Risk Management (SCRM) Concepts](#111-apply-supply-chain-risk-management-scrm-concepts)                                                                           |
-| [1.12 Establish and Maintain a Security Awareness, Education, and Training Program](#112-establish-and-maintain-a-security-awareness-education-and-training-program)                       |
+|      | Topics                                                                                                                                                                                 |
+| ---- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.1  | [Understand, Adhere to, and Promote Professional Ethics](#11-understand-adhere-to-and-promote-professional-ethics)                                                                     |
+| 1.2  | [Understand and Apply Security Concepts](#12-understand-and-apply-security-concepts)                                                                                                   |
+| 1.3  | [Evaluate and Apply Security Governance Principles](#13-evaluate-and-apply-security-governance-principles)                                                                             |
+| 1.4  | [Understand Legal, Regulatory, and Compliance Issues](#14-understand-legal-regulatory-and-compliance-issues)                                                                           |
+| 1.5  | [Understand Requirements for Investigation Types](#15-understand-requirements-for-investigation-types)                                                                                 |
+| 1.6  | [Develop, Document, and Implement Security Policy, Standards, Procedures, and Guidelines](#16-develop-document-and-implement-security-policy-standards-procedures-and-guidelines)      |
+| 1.7  | [Identify, Analyze, Assess, Prioritize, and Implement Business Continuity (BC) Requirements](#17-identify-analyze-assess-prioritize-and-implement-business-continuity-bc-requirements) |
+| 1.8  | [Contribute to and Enforce Personnel Security Policies and Procedures](#18-contribute-to-and-enforce-personnel-security-policies-and-procedures)                                       |
+| 1.9  | [Understand and Apply Risk Management Concepts](#19-understand-and-apply-risk-management-concepts)                                                                                     |
+| 1.10 | [ Understand and Apply Threat Modeling Concepts and Methodologies](#110-understand-and-apply-threat-modeling-concepts-and-methodologies)                                               |
+| 1.11 | [ Apply Supply Chain Risk Management (SCRM) Concepts](#111-apply-supply-chain-risk-management-scrm-concepts)                                                                           |
+| 1.12 | [ Establish and Maintain a Security Awareness, Education, and Training Program](#112-establish-and-maintain-a-security-awareness-education-and-training-program)                       |
 
 
 #
