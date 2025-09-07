@@ -450,32 +450,32 @@ SCRM ensures that external suppliers and third-party products do not introduce s
 Security awareness, education, and training programs are designed to teach employees how to recognize and respond to security threats. Humans are often the weakest link in cybersecurity, so educating staff reduces mistakes, prevents breaches, and fosters a culture of security.
 
 ### Methods and Techniques:
-Social Engineering:
+#### 1. Social Engineering:
 Teaching employees to recognize attempts to manipulate them into revealing confidential information.  
 
 <mark>**Example:**</mark> Training staff to spot phishing emails that ask for login credentials or personal information.
 
-#### 1. Phishing Simulations:
+#### 2. Phishing Simulations:
 Running controlled phishing exercises to test employee awareness and response.  
 
 <mark>**Example:**</mark> Sending fake phishing emails to employees and providing feedback when someone clicks a suspicious link.
 
-#### 2. Security Champions:
+#### 3. Security Champions:
 Identifying motivated employees in different teams who advocate for security best practices and mentor peers.  
 
 <mark>**Example:**</mark> A developer in the IT team promotes secure coding practices and helps colleagues understand risks.
 
-#### 3. Gamification:
+#### 4. Gamification:
 Using interactive games or challenges to make learning about security fun and engaging.  
 
 <mark>**Example:**</mark> Quizzes or reward-based challenges on password management and safe browsing practices.
 
-#### 4. Periodic Content Reviews:
+#### 5. Periodic Content Reviews:
 Security threats evolve, so training programs must stay updated with emerging technologies and trends, like cryptocurrency security, AI vulnerabilities, or blockchain risks.  
 
 <mark>**Example:**</mark> Updating modules to cover risks in cryptocurrency transactions or AI-powered phishing attacks.
 
-#### 5. Program Effectiveness Evaluation:
+#### 6. Program Effectiveness Evaluation:
 Organizations must measure the impact of training programs to ensure they are improving employee behavior and reducing risks.  
 
 <mark>**Example:**</mark> Tracking the percentage of employees who successfully identify phishing simulations or monitoring incident reports before and after training.

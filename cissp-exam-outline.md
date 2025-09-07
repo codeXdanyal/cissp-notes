@@ -35,21 +35,24 @@ CISSP (Certified Information Systems Security Professional) is a cybersecurity c
 
 # Domain 1: Security and Risk Management
 
-## 1.1 Understand, adhere to, and promote professional ethics
+### 1.1 Understand, adhere to, and promote professional ethics
 - **ISC2 Code of Professional Ethics**
 - **Organizational code of ethics**
 
-## 1.2 Understand and apply security concepts
+
+### 1.2 Understand and apply security concepts
 - **5 Pillars of Information Security:** Confidentiality, Integrity, Availability, Authenticity, and Nonrepudiation
 
-## 1.3 Evaluate and apply security governance principles
+
+### 1.3 Evaluate and apply security governance principles
 - Alignment of the security function to business strategy, goals, mission, and objectives
 - Organizational processes (e.g., acquisitions, divestitures, governance committees)
 - Organizational roles and responsibilities
 - Security control frameworks: ISO, NIST, COBIT, SABSA, PCI, FedRAMP
 - Due care / Due diligence
 
-## 1.4 Understand legal, regulatory, and compliance issues
+
+### 1.4 Understand legal, regulatory, and compliance issues
 - Cybercrimes and data breaches
 - Licensing and Intellectual Property requirements
 - Import/export controls
@@ -57,22 +60,27 @@ CISSP (Certified Information Systems Security Professional) is a cybersecurity c
 - Privacy regulations: GDPR, CCPA, Personal Information Protection Law, POPIA
 - Contractual, legal, industry standards, and regulatory requirements
 
-## 1.5 Understand requirements for investigation types
+
+### 1.5 Understand requirements for investigation types
 - Administrative, criminal, civil, regulatory, industry standards
 
-## 1.6 Develop, document, and implement security policy, standards, procedures, and guidelines
 
-## 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements
+### 1.6 Develop, document, and implement security policy, standards, procedures, and guidelines
+
+
+### 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements
 - Business Impact Analysis (BIA)
 - External dependencies
 
-## 1.8 Contribute to and enforce personnel security policies and procedures
+
+### 1.8 Contribute to and enforce personnel security policies and procedures
 - Candidate screening and hiring
 - Employment agreements and policy-driven requirements
 - Onboarding, transfers, and termination processes
 - Vendor, consultant, and contractor agreements and controls
 
-## 1.9 Understand and apply risk management concepts
+
+### 1.9 Understand and apply risk management concepts
 - Threat and vulnerability identification
 - Risk analysis, assessment, and scope
 - Risk response and treatment (e.g., cybersecurity insurance)
@@ -83,15 +91,48 @@ CISSP (Certified Information Systems Security Professional) is a cybersecurity c
 - Continuous improvement: risk maturity modeling
 - Risk frameworks: ISO, NIST, COBIT, SABSA, PCI
 
-## 1.10 Understand and apply threat modeling concepts and methodologies
 
-## 1.11 Apply supply chain risk management (SCRM) concepts
+### 1.10 Understand and apply threat modeling concepts and methodologies
+
+
+### 1.11 Apply supply chain risk management (SCRM) concepts
 - Risks associated with the acquisition of products and services from suppliers and providers (e.g., product tampering, counterfeits, implants)
 - Risk mitigations: third-party assessment and monitoring, minimum security requirements, service level requirements, silicon root of trust, physically unclonable function, software bill of materials
 
-## 1.12 Establish and maintain a security awareness, education, and training program
+
+### 1.12 Establish and maintain a security awareness, education, and training program
 - Methods and techniques: social engineering, phishing, security champions, gamification
 - Periodic content reviews: emerging technologies and trends (cryptocurrency, AI, blockchain)
 - Program effectiveness evaluation
 
-More domains will be added soon.
+#
+# Domain 2: Asset Security
+
+### 2.1 Identify and classify information and assets
+- Data classification
+- Asset Classification
+  
+### 2.2 Establish information and asset handling requirements
+### 2.3 Provision information and assets securely 
+- Information and asset ownership 
+- Asset inventory (e.g., tangible, intangible) 
+- Asset management 
+
+### 2.4 Manage data lifecycle 
+- Data roles (i.e., owners, controllers, custodians, 
+processors, users/subjects) 
+- Data collection 
+- Data location 
+- Data maintenance 
+- Data retention 
+- Data remanence 
+- Data destruction
+
+### 2.5 Ensure appropriate asset retention (e.g., End of Life (EOL), End of Support) 
+
+### 2.6 Determine data security controls and compliance requirements
+- Data states (e.g., in use, in transit, at rest) 
+- Scoping and tailoring 
+- Standards selection 
+- Data protection methods (e.g., Digital Rights Management (DRM), 
+data loss prevention (DLP), cloud access security broker (CASB))
