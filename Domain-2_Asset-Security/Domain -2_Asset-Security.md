@@ -4,11 +4,14 @@
 
 ### Table of Contents  
 
-|      | Topics                                                                                                     |
-| :--- | :--------------------------------------------------------------------------------------------------------- |
-| 2.1  | [Identify and Classify Information and Assets](#21-identify-and-classify-information-and-assets)           |
-| 2.2  | [ Identify and Classify Information and Assets](#22-establish-information-and-asset-handling-requirements) |
-
+|      | Topics                                                                                                                           |
+| :--- | :------------------------------------------------------------------------------------------------------------------------------- |
+| 2.1  | [Identify and Classify Information and Assets](#21-identify-and-classify-information-and-assets)                                 |
+| 2.2  | [ Identify and Classify Information and Assets](#22-establish-information-and-asset-handling-requirements)                       |
+| 2.3  | [Provision Information and Assets Securely](#23-provision-information-and-assets-securely)                                       |
+| 2.4  | [Manage Data Lifecycle](#24-manage-data-lifecycle)                                                                               |
+| 2.5  | [Ensure Appropriate Asset Retention (EOL/EOS)](#25-ensure-appropriate-asset-retention-eoleos)                                    |
+| 2.6  | [Determine Data Security Controls and Compliance Requirements](#26-determine-data-security-controls-and-compliance-requirements) |
 #
 ### 2.1 Identify and Classify Information and Assets
 
@@ -248,7 +251,7 @@ Asset retention is about using assets only while they are secure and supported. 
 
 ### What It Means:
 Data security controls are the measures put in place to protect information throughout its lifecycle. Compliance requirements ensure that the organization meets legal, regulatory, and contractual obligations. Determining the right controls depends on the state of data, the scope of protection, and the chosen standards.
-
+#
 ### Data States:
 Data can exist in three primary states, each requiring specific protection:
 
@@ -260,13 +263,13 @@ Data can exist in three primary states, each requiring specific protection:
 
 <mark>**Examples:**</mark>
 Encrypting a database (at rest), using HTTPS for a web application (in transit), and restricting who can view or edit files in memory (in use).
-
+#
 ### Scoping and Tailoring:
 Determine which data needs protection and customize controls based on risk, value, and compliance needs. Not all data requires the same level of control.
 
 <mark>**Examples:**</mark>
 Internal emails might only need access control, while customer payment information requires strong encryption, DLP, and audit logging.
-
+#
 ### Standards Selection:
 Use recognized frameworks or standards to guide security control implementation. Common examples:
 
@@ -280,7 +283,7 @@ Use recognized frameworks or standards to guide security control implementation.
 
 <mark>**Examples:**</mark>
 A company handling credit card payments follows PCI DSS to implement mandatory encryption, logging, and monitoring controls.
-
+#
 ### Data Protection Methods:
 
 **1. Digital Rights Management (DRM):** Controls who can access, copy, or share digital files.
@@ -291,6 +294,6 @@ A company handling credit card payments follows PCI DSS to implement mandatory e
 
 <mark>**Examples:**</mark>
 Using DLP software to prevent employees from emailing sensitive financial reports to personal accounts, and using a CASB to monitor data in SaaS applications like Salesforce.
-
+#
 ### Key Takeaway:
 Determining data security controls involves understanding the state of data, defining the scope of protection, selecting appropriate standards, and implementing technical and procedural safeguards. These measures not only protect information but also ensure compliance with laws, regulations, and contractual obligations.

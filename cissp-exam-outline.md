@@ -4,8 +4,8 @@
 **Effective Date:** April 15, 2024
 
 CISSP (Certified Information Systems Security Professional) is a cybersecurity certification provided by (ISC)² since 1994. Earning CISSP demonstrates that a person understands how to design, implement, and manage security policies, procedures, and controls in a structured way to protect organizations. It involves not just securing systems, but also detecting threats, monitoring risks, and ensuring business continuity.
-
-## CISSP Exam Domains
+#
+### CISSP Exam Domains
 
 1. Security and Risk Management
 2. Asset Security
@@ -17,8 +17,8 @@ CISSP (Certified Information Systems Security Professional) is a cybersecurity c
 8. Software Development Security
 
 **Summary:** CISSP validates that someone can see the “big picture” of cybersecurity — from policies and risk to networks and software — and protect an organization professionally.
-
-## CISSP CAT Examination Weights
+#
+### CISSP CAT Examination Weights
 
 | Domain | Average Weight |
 |:--------|:----------------|
@@ -33,7 +33,7 @@ CISSP (Certified Information Systems Security Professional) is a cybersecurity c
 | **Total** | 100% |
 
 
-# Domain 1: Security and Risk Management
+## Domain 1: Security and Risk Management
 
 ### 1.1 Understand, adhere to, and promote professional ethics
 - **ISC2 Code of Professional Ethics**
@@ -106,7 +106,7 @@ CISSP (Certified Information Systems Security Professional) is a cybersecurity c
 - Program effectiveness evaluation
 
 #
-# Domain 2: Asset Security
+## Domain 2: Asset Security
 
 ### 2.1 Identify and classify information and assets
 - Data classification
