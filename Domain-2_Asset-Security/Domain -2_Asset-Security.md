@@ -1,4 +1,4 @@
-# Domain 1: Security and Risk Management  
+# Domain 2: Asset-Security
 **_Weightage:_** _10%_
 
 
