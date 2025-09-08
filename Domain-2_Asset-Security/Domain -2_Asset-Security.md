@@ -1,5 +1,5 @@
 # Domain 1: Security and Risk Management  
-**_Weightage:_** _15%_
+**_Weightage:_** _10%_
 
 
 ### Table of Contents  
@@ -69,10 +69,10 @@ Assets (like hardware, software, and devices) also need handling rules.
 
 **Examples:**
 
-- Hardware Assets: Securely stored in controlled areas; laptops must be locked when unattended.
-- Software Assets: Use licensed copies only, patch regularly, and control installations.
-- Information Assets: Protect with backups, encryption, and access restrictions.
-- People Assets: Train employees on security policies and limit their access to what they need (principle of least privilege).
+- **Hardware Assets:** Securely stored in controlled areas; laptops must be locked when unattended.
+- **Software Assets:** Use licensed copies only, patch regularly, and control installations.
+- **Information Assets:** Protect with backups, encryption, and access restrictions.
+- **People Assets:** Train employees on security policies and limit their access to what they need (principle of least privilege).
 
 <mark>**Examples:**</mark>
 If an employee leaves the company, their laptop must be collected, wiped, and reissued properly, not just left in storage.
