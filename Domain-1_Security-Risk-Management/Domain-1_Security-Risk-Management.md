@@ -17,7 +17,7 @@
 | 1.10 | [ Understand and Apply Threat Modeling Concepts and Methodologies](#110-understand-and-apply-threat-modeling-concepts-and-methodologies)                                               |
 | 1.11 | [ Apply Supply Chain Risk Management (SCRM) Concepts](#111-apply-supply-chain-risk-management-scrm-concepts)                                                                           |
 | 1.12 | [ Establish and Maintain a Security Awareness, Education, and Training Program](#112-establish-and-maintain-a-security-awareness-education-and-training-program)                       |
-
+|      | [Summary](#domain-1-summary-security--risk-management)                                                                                                                                 |
 
 #
 
