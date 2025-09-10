@@ -1,6 +1,7 @@
 # Domain 4: Communication and Network Security
-### Table of Contents
 **_Weightage:_** _13%_
+
+### Table of Contents
 
 |     | Topics                                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------ |
