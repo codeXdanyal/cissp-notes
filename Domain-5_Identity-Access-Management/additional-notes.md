@@ -407,3 +407,142 @@ physical documentation as described in SP 800-63A.
 - Federation Assurance Level (FAL) refers to the strength of an assertion in a federated
 environment, used to communicate authentication and attribute information (if
 applicable) to a relying party (RP).
+
+#
+![](./images/image%20copy%2028.png)  
+
+NIST SP 800-63-3 describes a credential as a binding between an authenticator and
+a subscriber by means of an identifier. The credential may be collected and
+managed by the CSP, although it is possessed by the claimant. Credential examples
+include but are not limited to smart cards, private/public cryptographic keys, and
+digital certificates. The FICAM Roadmap and Implementation Guidance Version 2.0
+within the U.S. federal government has the following five-step enrollment process:1. Sponsorship: An authorized entity sponsors claimant for a credential with a CSP.
+2. Enrollment: The sponsored claimant enrolls for the credentials from a CSP. This
+step would include identity proofing, which might include capture of biographic and
+biometric data.
+3. Credential Production: Credentials are produced in the form of smart cards,
+private/public cryptographic keys, and digital certificates.
+4. Issuance: Claimant is issued credential.
+5. Credential Lifecycle Management: Credentials are maintained through activities
+that includes revocation, reissuance, re-enrollment, expiration, suspension, or
+reinstatement.  
+
+#
+![](./images/image%20copy%2029.png)  
+![](./images/image%20copy%2020.png)  
+
+When disparate organizations have a need to share common information, federated
+identity management (FIM) solutions are sought. Think of businesses that use social media platforms such as Linkedin and Twitter but have different business models
+and corporate goals and missions.  
+
+### Twitter:  
+“Twitter is what’s happening in the world and what people are talking about right
+now.”  
+
+### Linkedin:
+“Creating a digital map of the global economy to connect talent with opportunity at
+massive scale.” Although Linkedin and Twitter are markedly different in their
+mission statements, they share a common customer base. The common customers
+between Linkedin and Twitter may at times want the information that is resident on
+one service provider platform to appear automatically and synchronously on
+another service provider platform. 
+
+
+#
+![](./images/image%20copy%2031.png)  
+
+### Security Assertion Markup Language (SAML) and Open Authorization (OAuth)  
+
+SAML and OAuth 2.0 are two protocols that support the access and authorization
+that is required to link disparate organizations.  \
+
+SAML defines an XML-based framework for describing and exchanging security
+information between online business relationships. This security information is
+maintained in SAML assertions that work between trusted security domain
+boundaries.  
+
+The SAML standard follows a prescribed set of rules for requesting, creating,
+communicating, and using SAML assertions. SAML has three roles and four primary
+components.
+**SAML roles:**
+1. Identity provider (IdP)
+2. Service provider / relying party
+3. User/principal  
+
+### SAML components:  
+
+1. Assumptions-defines how SAML attributes, authentication, and authorization
+request-response protocol messages can be exchanged between systems using
+common underlying communication protocols and frameworks.
+2. Bindings-defines how SAML assertions and protocol message exchanges are
+conducted with response/request pairs.
+3. Protocols-defines what protocols are used, which include SOAP and HTTP.
+4. Profiles-defines specific sets of rules for a use case for attributes, bindings, and
+protocols for a SAML session.  
+
+#
+![](./images/image%20copy%2032.png)    
+
+Internet Engineering Task Force (IETF) rfc 6749 states: The Open Authorization
+(OAuth) 2.0 authorization framework enables a third-party application to obtain
+limited access to an HTTP service, either on behalf of a resource owner by
+orchestrating an approval interaction between the resource owner and the HTTP
+service, or by allowing the third-party application to obtain access on its own
+behalf.  
+
+**OAuth standard has four roles:**
+1. Resource owner: An entity capable of granting access to a protected resource. When the resource owner is a person, the entity is referred to as an end-user.
+2. Resource server: The server hosting the protected resources, capable of accepting and responding to protected resource requests using access tokens.
+3. Client application: An application making protected resource requests on behalf of the resource owner and with its authorization. The term “client” does not imply
+any implementation characteristics (e.g., whether the application executes on a server, a desktop, or other devices).
+4. Authorization server: The server issuing access tokens to the client after successfully authenticating the resource owner and obtaining authorization. 
+
+#
+![](./images/image%20copy%2033.png)  
+
+**Review this link:** https://developers.onelogin.com/saml  
+https://oauth.net/2/  
+https://openid.net/  
+
+#
+![](./images/image%20copy%2034.png)    
+
+Gartner defines identity as a service (IDaaS) as, “a predominantly cloud-based
+service in a multi-tenant or dedicated and hosted delivery model that brokers core
+identity governance and administration (IGA), access and intelligence functions to
+target systems on customers’ premises and in the cloud.”  
+
+Gartner states that the core aspects of IDaaS are:     
+- **IGA:** Provisioning of users to cloud applications and password reset functionality.
+- **Access:** User authentication, single sign-on (SSO), and authorization, supporting
+federation standards such as SAML. 
+- **Intelligence:** Identity access log monitoring and reporting.  
+
+The modern convergence of various business needs (that include ubiquitous access
+to services, reduced effort with sign-on, and greater support with federated
+standards) have driven adoption of IDaaS. These are some of the top performers in
+the IDaaS space that are part of Gardner’s Magic Quadrant:   
+- **Centrify**
+- **Okta**
+- **Windows** Active Directory Federated Services
+
+#
+![](./images/image%20copy%2035.png)   
+
+On-premise organizations can use existing infrastructure that manages identities
+through LDAP services like Windows Active Directory to connect and login to a
+service provider that extends their internal identities to authenticate to consume
+services that are in the cloud. An example of extending internal services related to
+ID management to integrate with cloud services would be an enterprise Windows
+Active Directory connecting to Windows Azure (public cloud) AD to consume
+services related to Office 365. Office 365 represents a service that the enterprise is
+seeking to consume as software as a service (SaaS) that would be facilitated
+through linking an enterprise directory to a provider directory. While the service is
+provided externally, the passwords and IDs would be managed internal, thus onpremise.  
+
+#
+![](./images/image%20copy%2036.png)  
+
+If the previous scenario is managed by creating and storing the identities within an
+instance of Office 365 and Windows Active Directory in Windows Azure, then the
+third-party service is completely managed in the cloud.
