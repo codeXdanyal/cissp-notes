@@ -6,7 +6,9 @@ integrity, and availability of assets and resources that are critical to busines
 ability to name, associate, and apply suitable identity and access control
 methodologies and technologies that meet specific business needs.  
 
-![img](./images/image-g)  -nformation and the administration of information is key to the management of
+![img](./images/image.webp)  
+
+Information and the administration of information is key to the management of
 individual and systemic access control systems. Information can be associated with
 both logical and physical access control systems. Whether it is a logical or physical
 access system, the control of that system is maintained somewhere as discrete data
@@ -17,7 +19,7 @@ access is accomplished in three primary ways, namely:
 - decentralized, 
 - and hybrid.
 
-![img](./images/image-copy-g)  
+![img](./images/image-copy.webp)  
 
 **Centralized–** Centralized administration means that one element is responsible for
 configuring access controls so that users can access data and perform the activities
@@ -54,7 +56,7 @@ if the employee left a project, the project manager can easily close that employ
 access to that file.  
 
 #
-![img](./images/image-copy-2.png)  
+![img](./images/image-copy-2.webp)  
 
 ### Systems  
 Access controls can be classified by either logical or physical systems. The simplest
@@ -75,7 +77,7 @@ concerning the organizational risk appetite and profile, the data owner concerni
 “need-to-know” and “least privilege” and asset value determination, the custodian
 concerning tool implementation to provide appropriate restriction of the assets to  disclosure, destruction, or alteration.  
 #
-![img](./images/image-copy-3.png)  
+![img](./images/image-copy-3.webp)  
 The Federal Identity, Credential, and Access Management (FICAM) defines logical
 access control as: “An automated system that controls an individual’s ability to
 access one or more computer system resources such as a workstation, network,
@@ -97,7 +99,7 @@ logical access controls may be present in specialized components that regulate
 communications between computers and networks.
 
 #
-![img](./images/image-copy-4.png)  
+![img](./images/image-copy-4.webp)  
 Special Publications 800-53r4 defines physical access control as “An automated
 system that manages the passage of people or assets through an opening(s) in a
 secure perimeter(s) based on a set of authorization rules.”  
@@ -108,8 +110,8 @@ logical and physical access control. Logical and physical access control devices
 include but are not limited to access tokens (hardware and software), keys, and
 cards.
 #
-![img](./images/image-copy-5.png)  
-![img](./images/image-copy-6.png)  
+![img](./images/image-copy-5.webp)  
+![img](./images/image-copy-6.webp)  
 
 ### Access Control Tokens
 Access control tokens are available in many different technologies and in many
@@ -127,7 +129,7 @@ determine whether a person is already in a database, such as for social service 
 national ID applications.  
 
 #
-![img](./images/image-copy-7.png) 
+![img](./images/image-copy-7.webp) 
 
 At the development of the enterprise security architecture, the security architect
 will map business requirements to technology agnostic views or statements that
@@ -150,7 +152,7 @@ access:
 - If user account privileges have experienced unnecessary access aggregation.
 
 #
-![img](./images/image-copy-8.png)  
+![img](./images/image-copy-8.webp)  
 
 System accounts such as “administrator,” “sudo,” or “root” accounts present an
 often-exploited vulnerability for attackers. Making a non-linear representation
@@ -162,7 +164,7 @@ static numeric ID. Therefore, “security by obscurity” or only renaming the s
 account is insufficient due diligence to protect them from anything more than trivial exploitation efforts.  
 
 #
-![img](./images/image-copy-8.png) 
+![img](./images/image-copy-8.webp) 
 
 Provisioning and deprovision of access and identities involves a list of activities that
 are driven by business needs and requirements, job function and role, asset
@@ -184,7 +186,7 @@ manage the Provisioning and Deprovisioning process.
 - Deprovision user account and end user permissions
 
 #
-![img](./images/image-copy-9.png)   
+![img](./images/image-copy-9.webp)   
 
 ### Identification
 The objective of identification is to bind a user to the appropriate controls based on
@@ -192,7 +194,7 @@ the unique user instance. For example, once the unique user is identified and
 validated through authentication, his or her identity within the infrastructure is
 used to allocate resources based on predefined privileges.  
 
-![img](./images/image-copy-10.png)   
+![img](./images/image-copy-10.webp)   
 
 An identity represents the initial attribute in a linear succession of attributes to
 protect access and use of a system. Providing an identity to access a system is
@@ -206,7 +208,7 @@ privileges, system profiles, and availability of system information, application
 services.  
 
 #
-![img](./images/image-copy-11.png)   
+![img](./images/image-copy-11.webp)   
 
 **Authentication** within a system involves presenting evidence that an identified
 entity should be allowed access through a control point. Standard evidence for
@@ -237,7 +239,7 @@ intellectual property content leakage or theft. Node authentication allows for d
 authentication could include a specific smartphone, laptop, desktop, etc.
 
 #
-![img](./images/image-copy-12.png)  
+![img](./images/image-copy-12.webp)  
 
 **Biometric** devices rely on measurements of biological characteristics of an individual, such
 as a fingerprint, hand geometry, voice, or iris patterns. Biometric technology involves data
@@ -251,8 +253,8 @@ Some systems may be perceived by the user as a safety or health risk. Also, some
 systems may require a degree of skill on the part of the user for proper operation. Other
 systems may be perceived as unacceptable by management for a combination of reasons.  
 #
-![img](./images/image-copy-13.png)  
-![img](./images/image-copy-14.png)  
+![img](./images/image-copy-13.webp)  
+![img](./images/image-copy-14.webp)  
 
 ### Types of Failure in Biometric Identification
 There are two types of failures in biometric identification:  
@@ -266,8 +268,8 @@ recognize them.
 rate increases the other. Crossover Error Rate (CER) is achieved when the type I and type II
 are equal.  
 #
-![img](./images/image-copy-15.png) 
-![img](./images/image-copy-16.png)    
+![img](./images/image-copy-15.webp) 
+![img](./images/image-copy-16.webp)    
 
 **Fingerprint:** Fingerprint reader technology scans the loops, whorls, and other
 characteristics of a fingerprint and compares it with stored templates. When a match is
@@ -275,13 +277,13 @@ found, access is granted. The advantage of fingerprint technology is that it is 
 understood. The disadvantages are that the system can be disrupted if cuts or sores appear
 on fingers, or if grease or other medium contaminates the fingers and the scanning plates.
 #
-![img](./images/image-copy-17.png) 
+![img](./images/image-copy-17.webp) 
 
 **Facial image:** This technology measures the geometric properties of the subject’s face
 relative to an archived image. Specifically, the center of the subject’s eyes must be located
 and placed at precise locations.  
 #
-![img](./images/image-copy-18.png)
+![img](./images/image-copy-18.webp)
 
 **Hand geometry:** This technology assesses the hand’s geometry: height, width, and distance
 between knuckle joints and finger length. Advantages of hand geometry are that the
@@ -290,7 +292,7 @@ more rapid than fingerprint recognition. Hand recognition is reasonably accurate
 the shape of a hand is unique. A disadvantage is that hand recognition tends to give higher
 false acceptance rates than fingerprint recognition.
 #
-![img](./images/image-copy-19.png)     
+![img](./images/image-copy-19.webp)     
 
 **Voice recognition:** Voice recognition compares the voice characteristics of a given phrase to one held in a template. Voice recognition is generally not performed as one function and is
 typically part of a system where a valid PIN must be entered before the voice analyzer is
@@ -299,7 +301,7 @@ other biometric technologies, and it has hands-free operation. A disadvantage is
 voice synthesizer must be placed in an area where the voice is not disturbed by background sounds; often a booth or security portal must be installed to house the sensor to provide
 the system with a quiet background.  
 #
-![img](./images/image-copy-20.png)
+![img](./images/image-copy-20.webp)
 
 **Iris patterns:** Iris recognition technology scans the surface of the eye and compares the iris
 pattern with stored iris templates. An advantage of iris recognition is that it is not
@@ -310,7 +312,7 @@ their eye scanned. Throughput time for this technology also should be considered
 throughput time is two seconds. If a number of people need to be processed through an
 entrance in a short period of time, this can be problematic.  
 #
-![img](./images/image-copy-21.png)    
+![img](./images/image-copy-21.webp)    
 
 **Retinal scanning:** Retinal scanning analyzes the layer of blood vessels at the back of the eye, which are unique to each person. Scanning involves using a low-intensity LED light source
 and an optical coupler that can read the patterns with great accuracy. It does require the
@@ -319,7 +321,7 @@ user looks through a small opening in the device, and the head needs to be still
 takes about ten seconds. The continuity of the retinal pattern throughout life and the
 difficulty in fooling such a device also makes it a great long-term, high-security option.  
 #
-![img](./images/image-copy-22.png)  
+![img](./images/image-copy-22.webp)  
 
 **Signature dynamics:** First, the signer writes out a handwritten signature on a special
 electronic pad, such as the ePad by Interlink or a Palm Pilot. The shape of the signature is
@@ -331,7 +333,7 @@ signature. Signers do not need special knowledge of computers nor any unusual to
 provide a signature. At the same time, the system allows the notary to record unique
 identifying features to help prevent and detect forged signatures.  
 #
-![img](./images/image-copy-23.png)  
+![img](./images/image-copy-23.webp)  
 
 **Vascular patterns:** This is the ultimate palm reader; vascular patterns are best described as
 a picture of the veins in a person’s hand or finger. The thickness and location of these veins
@@ -340,7 +342,7 @@ Television Standards Committee (NTSC) Subcommittee on Biometrics reports that
 researchers determined that the vascular pattern of the human body is unique to each
 individual and does not change with age.  
 #  
-![img](./images/image-copy-24.png)  
+![img](./images/image-copy-24.webp)  
 
 **Keystroke dynamics:** Keystroke dynamics are also known as keyboard dynamics, which
 identify the way a person types at a keyboard; specifically, the keystroke rhythms of a user
@@ -350,12 +352,12 @@ determine dwell time, or the amount of time a particular key is held, and flight
 amount of time between the next key down and the next key up.
 
 #
-![img](./images/image-copy-25.png)  
+![img](./images/image-copy-25.webp)  
 
 **Authorization** defines what resources users may have access to.
 
 #
-![img](./images/image-copy-26.png)  
+![img](./images/image-copy-26.webp)  
 
 **Session management** is related to when a user is authenticated, authorized, and held
 accountable for using system resources. The system must maintain an uninterrupted path
@@ -369,7 +371,7 @@ the entirety of a session to the cookie. Cookie handling achieves non-repudiatio
 effectively leveraging an audit trail of session activity. 
 
 #
-![img](./images/image-copy-27.png)  
+![img](./images/image-copy-27.webp)  
 
 Registration and proofing of an identity are processes that connect an entity or user
 identity to an access control system that creates a confirmed relationship of trust that an
@@ -407,7 +409,7 @@ environment, used to communicate authentication and attribute information (if
 applicable) to a relying party (RP).
 
 #
-![img](./images/image-copy-28.png)  
+![img](./images/image-copy-28.webp)  
 
 NIST SP 800-63-3 describes a credential as a binding between an authenticator and
 a subscriber by means of an identifier. The credential may be collected and
@@ -426,8 +428,8 @@ that includes revocation, reissuance, re-enrollment, expiration, suspension, or
 reinstatement.  
 
 #
-![img](./images/image-copy-29.png)  
-![img](./images/image-copy-20.png)  
+![img](./images/image-copy-29.webp)  
+![img](./images/image-copy-20.webp)  
 
 When disparate organizations have a need to share common information, federated
 identity management (FIM) solutions are sought. Think of businesses that use social media platforms such as Linkedin and Twitter but have different business models
@@ -447,7 +449,7 @@ another service provider platform.
 
 
 #
-![img](./images/image-copy-31.png)  
+![img](./images/image-copy-31.webp)  
 
 ### Security Assertion Markup Language (SAML) and Open Authorization (OAuth)  
 
@@ -479,7 +481,7 @@ conducted with response/request pairs.
 protocols for a SAML session.  
 
 #
-![img](./images/image-copy-32.png)    
+![img](./images/image-copy-32.webp)    
 
 Internet Engineering Task Force (IETF) rfc 6749 states: The Open Authorization
 (OAuth) 2.0 authorization framework enables a third-party application to obtain
@@ -496,14 +498,14 @@ any implementation characteristics (e.g., whether the application executes on a 
 4. Authorization server: The server issuing access tokens to the client after successfully authenticating the resource owner and obtaining authorization. 
 
 #
-![img](./images/image-copy-33.png)  
+![img](./images/image-copy-33.webp)  
 
 **Review this link:** https://developers.onelogin.com/saml  
 https://oauth.net/2/  
 https://openid.net/  
 
 #
-![img](./images/image-copy-34.png)    
+![img](./images/image-copy-34.webp)    
 
 Gartner defines identity as a service (IDaaS) as, “a predominantly cloud-based
 service in a multi-tenant or dedicated and hosted delivery model that brokers core
@@ -525,7 +527,7 @@ the IDaaS space that are part of Gardner’s Magic Quadrant:
 - **Windows** Active Directory Federated Services
 
 #
-![img](./images/image-copy-35.png)   
+![img](./images/image-copy-35.webp)   
 
 On-premise organizations can use existing infrastructure that manages identities
 through LDAP services like Windows Active Directory to connect and login to a
@@ -539,7 +541,7 @@ through linking an enterprise directory to a provider directory. While the servi
 provided externally, the passwords and IDs would be managed internal, thus onpremise.  
 
 #
-![img](./images/image-copy-36.png)  
+![img](./images/image-copy-36.webp)  
 
 If the previous scenario is managed by creating and storing the identities within an
 instance of Office 365 and Windows Active Directory in Windows Azure, then the
@@ -547,7 +549,7 @@ third-party service is completely managed in the cloud.
 
 
 #
-![img](./images/image-copy-37.png)  
+![img](./images/image-copy-37.webp)  
 
 ### Types of Access Control
 **NIST SP 800-192** specifies access control models as “formal presentations of the
@@ -559,7 +561,7 @@ control (NDAC), role-based access control (RBAC), rule-based access control (RBA
 and attribute based access control (ABAC).   
 
 #
-![img](./images/image-copy-38.png)  
+![img](./images/image-copy-38.webp)  
 ### Discretionary Access Control (DAC)
 DAC leaves a certain amount of access control to the discretion of the object’s
 owner or anyone else who is authorized to control the object’s access. The owner
@@ -569,7 +571,7 @@ vulnerabilities. The object’s owner can pass on control weaknesses that can
 contribute to access and privilege aggregation.  
 
 #
-![img](./images/image-copy-39.png)  
+![img](./images/image-copy-39.webp)  
 ### Mandatory Access Control (MAC)
 MAC means that access control policy decisions are made by a central authority and not by the individual owner of an object. User cannot change access rights. An
 example of MAC occurs in military security, where an individual data owner does
@@ -578,7 +580,7 @@ classification of an object from top-secret to secret.
 
 
 #
-![img](./images/image-copy-40.png) 
+![img](./images/image-copy-40.webp) 
 ### Nondiscretionary Access Control (NDAC)
 In general, all AC policies other than DAC are grouped under the category of
 nondiscretionary AC (NDAC). As the name implies, policies in this category have
@@ -587,7 +589,7 @@ action.
 
 
 #
-![img](./images/image-copy-41.png)
+![img](./images/image-copy-41.webp)
 ### Role-Based Access Control (RBAC)
 RBAC is an access control policy that restricts information system access to
 authorized users. Organizations can create specific roles based on job functions and
@@ -596,7 +598,7 @@ information systems associated with the organization-defined roles. Access can b
 granted by the owner as with DAC and applied with the policy according to MAC.
 
 #
-![img](./images/image-copy-42.png)
+![img](./images/image-copy-42.webp)
 ### Rule-Based Access Control (RBAC)
 This is based upon a pre-defined list of rules that can determine access with
 additional granularity controls such as when, where, and if the system will allow
@@ -604,13 +606,13 @@ read, write, or execute based upon special conditions. RBACs are managed by the
 system owner and represent an implementation of DAC.
 
 #
-![img](./images/image-copy-43.png)
+![img](./images/image-copy-43.webp)
 ### Attribute-Based Access Control (ABAC)  
 ABAC is an access control paradigm whereby access rights are granted to users with
 policies that combine attributes together. The policies can use any type of attributes (user attributes, resource attributes, environment attributes etc.).  
 
 #
-![img](./images/image-copy-44.png)
+![img](./images/image-copy-44.webp)
 ### Accountability
 Ultimately one of the drivers behind strong identification, authentication, auditing,
 and session management is accountability. Fundamentally, accountability is being
