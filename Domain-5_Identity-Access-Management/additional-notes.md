@@ -6,7 +6,7 @@ integrity, and availability of assets and resources that are critical to busines
 ability to name, associate, and apply suitable identity and access control
 methodologies and technologies that meet specific business needs.  
 
-![img](./images/image.webp)  
+![img](./images/image-01.webp)  
 
 Information and the administration of information is key to the management of
 individual and systemic access control systems. Information can be associated with
