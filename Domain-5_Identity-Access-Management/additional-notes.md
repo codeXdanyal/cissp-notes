@@ -164,7 +164,7 @@ static numeric ID. Therefore, “security by obscurity” or only renaming the s
 account is insufficient due diligence to protect them from anything more than trivial exploitation efforts.  
 
 #
-![img](./images/image-copy-8.webp) 
+![img](./images/image-copy-9.webp) 
 
 Provisioning and deprovision of access and identities involves a list of activities that
 are driven by business needs and requirements, job function and role, asset
@@ -186,7 +186,7 @@ manage the Provisioning and Deprovisioning process.
 - Deprovision user account and end user permissions
 
 #
-![img](./images/image-copy-9.webp)   
+![img](./images/image-010.webp)
 
 ### Identification
 The objective of identification is to bind a user to the appropriate controls based on
