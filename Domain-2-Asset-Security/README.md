@@ -11,6 +11,7 @@
 | 2.4 | [Manage Data Lifecycle](#24-manage-data-lifecycle)                                                                               |
 | 2.5 | [Ensure Appropriate Asset Retention (EOL, End of Support)](#25-ensure-appropriate-asset-retention-eol-end-of-support)            |
 | 2.6 | [Determine Data Security Controls and Compliance Requirements](#26-determine-data-security-controls-and-compliance-requirements) |
+|     | [Summary](#domain-2-asset-security--summary)                                                                                     |
 
 #
 ### 2.1 Identify and Classify Information and Assets
