@@ -3,8 +3,9 @@
 
 
 ### Table of Contents  
-|     | Topics |
-| --- | :----- |
+|     | Topics                                                                                           |
+| --- | :----------------------------------------------------------------------------------------------- |
+| 2.1 | [Identify and Classify Information and Assets](#21-identify-and-classify-information-and-assets) |
 
 #
 ### 2.1 Identify and Classify Information and Assets
