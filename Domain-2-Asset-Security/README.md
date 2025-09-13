@@ -3,9 +3,14 @@
 
 
 ### Table of Contents  
-|     | Topics                                                                                           |
-| --- | :----------------------------------------------------------------------------------------------- |
-| 2.1 | [Identify and Classify Information and Assets](#21-identify-and-classify-information-and-assets) |
+|     | Topics                                                                                                                           |
+| --- | :------------------------------------------------------------------------------------------------------------------------------- |
+| 2.1 | [Identify and Classify Information and Assets](#21-identify-and-classify-information-and-assets)                                 |
+| 2.2 | [Establish Information and Asset Handling Requirements](#22-establish-information-and-asset-handling-requirements)               |
+| 2.3 | [Provision Information and Assets Securely](#23-provision-information-and-assets-securely)                                       |
+| 2.4 | [Manage Data Lifecycle](#24-manage-data-lifecycle)                                                                               |
+| 2.5 | [Ensure Appropriate Asset Retention (EOL, End of Support)](#25-ensure-appropriate-asset-retention-eol-end-of-support)            |
+| 2.6 | [Determine Data Security Controls and Compliance Requirements](#26-determine-data-security-controls-and-compliance-requirements) |
 
 #
 ### 2.1 Identify and Classify Information and Assets
