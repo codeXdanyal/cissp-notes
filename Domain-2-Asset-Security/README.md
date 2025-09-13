@@ -291,3 +291,29 @@ CISSP questions may focus on:
 - Recognizing the purpose of standards and frameworks  
 - Identifying appropriate data protection methods for specific scenarios  
 
+#
+### Domain 2: Asset Security – Summary
+
+**Purpose:**  
+Domain 2 emphasizes the protection of organizational assets and information throughout their lifecycle. It covers everything from identifying and classifying assets to managing data securely, ensuring proper handling, retention, and compliance.
+
+**Identify and Classify Information and Assets:**  
+The first step in asset security is knowing what assets exist and understanding their value. Data classification involves categorizing information based on sensitivity, such as public, internal, confidential, or highly confidential. Asset classification applies to all organizational resources, both tangible, like servers or laptops, and intangible, like software, databases, or intellectual property. Proper classification allows organizations to prioritize security efforts and allocate resources effectively.
+
+**Establish Information and Asset Handling Requirements:**  
+Once assets are classified, organizations must define how they are handled. This includes rules for storage, transmission, access, and secure disposal. Formal policies and procedures guide employees and custodians on proper usage and incident response. Assigning clear responsibilities to asset owners, custodians, and users ensures accountability. Compliance with legal and regulatory requirements is a critical part of handling policies, minimizing organizational risk.
+
+**Provision Information and Assets Securely:**  
+Secure provisioning ensures that assets are configured, assigned, and delivered in a way that maintains their confidentiality, integrity, and availability from the start. This includes assigning ownership, maintaining a complete inventory, and applying access controls and security configurations. A structured provisioning process, from request and approval to documentation, prevents misuse and unauthorized access.
+
+**Manage Data Lifecycle:**  
+Data lifecycle management tracks information from creation to secure destruction. Roles such as owners, controllers, custodians, processors, and users define responsibilities for protection, processing, and access. Key activities include collection, storage location, maintenance, retention, addressing remanence, and ensuring secure destruction. Proper lifecycle management reduces risk, ensures data accuracy, and maintains availability for authorized purposes.
+
+**Ensure Appropriate Asset Retention:**  
+Assets have an End of Life (EOL) and End of Support (EOS), after which they become vulnerable if still in use. Organizations must implement retention policies that balance operational needs, compliance requirements, and security considerations. Planning replacements, upgrades, or secure disposal before assets become obsolete mitigates security risks and prevents business disruption.
+
+**Determine Data Security Controls and Compliance Requirements:**  
+Data must be protected in all states: in use, in transit, and at rest. Security controls should be scoped and tailored to fit organizational risk and regulatory requirements. Standards such as ISO/IEC 27001, NIST SP 800-53, PCI-DSS, and COBIT provide frameworks for consistent security. Methods like Digital Rights Management (DRM), Data Loss Prevention (DLP), and Cloud Access Security Brokers (CASB) help enforce policies. Compliance with laws, regulations, and contractual obligations ensures that organizational practices meet required standards.
+
+**Key Takeaways:**  
+Asset security is foundational to protecting organizational information. Understanding and classifying assets, defining handling rules, provisioning securely, managing the data lifecycle, planning retention, and implementing proper security controls ensures that assets remain protected, compliant, and effectively managed. Security is not just technical; it is a combination of processes, policies, and accountability.
