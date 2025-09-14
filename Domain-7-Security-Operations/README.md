@@ -552,12 +552,12 @@ Physical security protects people, facilities, and assets from unauthorized acce
 ### Perimeter security controls
 These are the first line of defense, designed to deter or delay intruders before they reach critical areas. Common measures include fencing, gates, barriers, lighting, CCTV surveillance, and security patrols. Perimeter security is often combined with environmental and situational awareness to respond quickly to threats.
 
-Example: A corporate campus installs reinforced fencing, access-controlled gates, and CCTV cameras with motion detection to monitor unauthorized entry attempts.
+**Example:** A corporate campus installs reinforced fencing, access-controlled gates, and CCTV cameras with motion detection to monitor unauthorized entry attempts.
 
 ### Internal security controls
 Once the perimeter is breached or entered legitimately, internal controls prevent unauthorized access to sensitive areas. This includes access badges, biometric readers, mantraps, security guards, locked server rooms, and controlled access to high-value equipment or confidential records. Internal security also addresses monitoring, logging, and emergency response protocols.
 
-Example: A data center implements mantraps at server room entrances, restricts access to authorized personnel only, and monitors all activity through an integrated video surveillance system.
+**Example:** A data center implements mantraps at server room entrances, restricts access to authorized personnel only, and monitors all activity through an integrated video surveillance system.
 
 ### Key takeaway
 Physical security is layered: strong perimeter controls deter intruders, while internal controls protect critical assets and sensitive areas. Effective physical security combines preventive, detective, and corrective measures to safeguard people, facilities, and information.
