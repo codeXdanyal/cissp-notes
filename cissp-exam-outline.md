@@ -33,7 +33,7 @@ CISSP (Certified Information Systems Security Professional) is a cybersecurity c
 | **Total** | 100% |
 
 
-## Domain 1: Security and Risk Management
+## [Domain 1: Security and Risk Management](./Domain-1-Security-Risk-Management/README.md)
 
 ### 1.1 Understand, adhere to, and promote professional ethics
 - **ISC2 Code of Professional Ethics**
@@ -106,7 +106,7 @@ CISSP (Certified Information Systems Security Professional) is a cybersecurity c
 - Program effectiveness evaluation
 
 
-## Domain 2: Asset Security
+## [Domain 2: Asset Security](./Domain-2-Asset-Security/README.md])
 
 ### 2.1 Identify and classify information and assets
 - Data classification
@@ -137,7 +137,7 @@ processors, users/subjects)
 - Data protection methods (e.g., Digital Rights Management (DRM), 
 data loss prevention (DLP), cloud access security broker (CASB))
 
-## Domain 3: Security Architecture and Engineering
+## [Domain 3: Security Architecture and Engineering](./Domain-3-Security-Architecture-and-Engineering/README.md)
 
 ### 3.1 Research, implement and manage engineering processes using secure design principles
 - Threat modeling
@@ -223,7 +223,7 @@ data loss prevention (DLP), cloud access security broker (CASB))
 - Retirement/disposal
 
 #
-## Domain 4: Communication and Network Security
+## [Domain 4: Communication and Network Security](./Domain-4-Communication-and-Network-Security/README.md)
 
 ### 4.1 Apply secure design principles in network architectures
 
@@ -261,7 +261,7 @@ data loss prevention (DLP), cloud access security broker (CASB))
 - Third-party connectivity (e.g., telecom providers, hardware support)
 
 #
-## Domain 5: Identity and Access Management (IAM)
+## [Domain 5: Identity and Access Management (IAM)](./Domain-5-Identity-Access-Management/)
 
 ### 5.1 Control physical and logical access to assets
 
@@ -310,7 +310,7 @@ data loss prevention (DLP), cloud access security broker (CASB))
 ### 5.6 Implement authentication systems
 
 #
-## Domain 6: Security Assessment and Testing
+## [Domain 6: Security Assessment and Testing](./Domain-6-Security-Assesment-and-Testing/)
 
 ### 6.1 Design and validate assessment, test, and audit strategies
 
@@ -355,7 +355,7 @@ data loss prevention (DLP), cloud access security broker (CASB))
 - Location (e.g., on-premises, cloud, hybrid)
 
 #
-## Domain 7: Security Operations
+## [Domain 7: Security Operations](./Domain-7-Security-Operations/README.md)
 
 ### 7.1 Understand and comply with investigations
 
@@ -443,7 +443,7 @@ data loss prevention (DLP), cloud access security broker (CASB))
 ### 7.15 Address personnel safety and security concerns 
 
 #
-## Domain 8: Software Development Security
+## [Domain 8: Software Development Security](./Domain-8-Doftware-Development-Security/README.md)
 
 ### 8.1 Understand and integrate security in the Software Development Life Cycle (SDLC) 
 
