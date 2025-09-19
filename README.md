@@ -1,4 +1,4 @@
-# Complete CISSP Study Notes  
+# Complete CISSP Study Notes - [Danyal khan](https://x.com/codewithdanyal)
 
 This repository contains **complete CISSP study notes** across all 8 domains, plus a dedicated folder for the official **CISSP Exam Outline**.  
 Each domain is in its own folder for easy navigation.  
