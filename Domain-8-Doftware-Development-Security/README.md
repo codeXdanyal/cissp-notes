@@ -11,13 +11,6 @@
 | 8.4 | [Assess security impact of acquired software](#84-assess-security-impact-of-acquired-software)                                                                       |
 | 8.5 | [Define and apply secure coding guidelines and standards](#85-define-and-apply-secure-coding-guidelines-and-standards)                                               |
 
-
-
-
-
-
-
-
 #
 ### 8.1 Understand and integrate security in the Software Development Life Cycle (SDLC)
 ### What it means
