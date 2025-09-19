@@ -353,3 +353,131 @@ data loss prevention (DLP), cloud access security broker (CASB))
 - External (e.g., outside organization control)
 - Third-party (e.g., outside of enterprise control)
 - Location (e.g., on-premises, cloud, hybrid)
+
+#
+## Domain 7: Security Operations
+
+### 7.1 Understand and comply with investigations
+
+- Evidence collection and handling
+- Reporting and documentation
+- Investigative techniques
+- Digital forensics tools, tactics, and procedures
+- Artifacts (e.g., data, computer, network, mobile device) 
+
+### 7.2 Conduct logging and monitoring activities
+- Intrusion detection and prevention (IDPS)
+- Security information and event management (SIEM)
+- Continuous monitoring and tuning
+- Egress monitoring
+- Log management
+- Threat intelligence (e.g., threat feeds, threat hunting)
+- User and entity behavior analytics (UEBA)
+
+### 7.3 Perform configuration management (CM) (e.g., provisioning, baselining, automation)
+### 7.4 Apply foundational security operations concepts 
+
+- Need-to-know/least privilege
+- Segregation of Duties (SoD) and responsibilities
+- Privileged account management
+- Job rotation
+- Service-level agreements (SLA) 
+
+### 7.5 Apply resource protection
+- Media management
+- Media protection techniques
+- Data at rest/data in transit
+
+### 7.6 Conduct incident management
+- Detection
+- Response
+- Mitigation
+- Reporting
+- Recovery
+- Remediation
+- Lessons learned 
+
+### 7.7 Operate and maintain detection and preventative measures
+- Firewalls (e.g., next generation, web application, network)
+- Intrusion detection systems (IDS) and intrusion prevention systems (IPS)
+- Whitelisting/blacklisting
+- Third-party provided security services
+- Sandboxing
+- Honeypots/honeynets
+- Anti-malware
+- Machine learning and artificial intelligence (AI) based tools
+
+### 7.8 Implement and support patch and vulnerability management
+### 7.9 Understand and participate in change management processes
+### 7.10 Implement recovery strategies
+
+- Backup storage strategies (e.g., cloud storage, onsite, offsite)
+- Recovery site strategies (e.g., cold vs. hot, resource capacity agreements)
+- Multiple processing sites
+- System resilience, high availability (HA), Quality of Service (QoS), and fault tolerance
+
+### 7.11 Implement disaster recovery (DR) processes 
+- Response
+- Personnel
+- Communications (e.g., methods)
+- Assessment
+- Restoration
+- Training and awareness
+- Lessons learned
+
+
+### 7.12 Test disaster recovery plans (DRP) 
+- Read-through/tabletop
+- Walkthrough
+- Simulation
+- Parallel
+- Full interruption
+- Communications (e.g., s
+
+### 7.13 Participate in Business Continuity (BC) planning and exercises
+### 7.14 Implement and manage physical security
+
+- Perimeter security controls
+- Internal security controls
+
+### 7.15 Address personnel safety and security concerns 
+
+#
+## Domain 8: Software Development Security
+
+### 8.1 Understand and integrate security in the Software Development Life Cycle (SDLC) 
+
+- Development methodologies (e.g., Agile, Waterfall, DevOps, DevSecOps, Scaled Agile Framework)
+- Maturity models (e.g., Capability Maturity Model (CMM), Software Assurance Maturity Model (SAMM))
+- Operation and maintenance
+- Change management
+- Integrated Product Team
+
+### 8.2 Identify and apply security controls in software development ecosystems
+
+- Programming languages
+- Libraries
+- Tool sets
+- Integrated Development Environment
+- Runtime
+- Continuous Integration and Continuous Delivery (CI/CD)
+- Software configuration management (CM)
+- Code repositories
+- Application security testing (e.g., static application security testing (SAST), dynamic application security testing (DAST), software composition analysis, Interactive Application Security Test (IAST))
+
+### 8.3 Assess the effectiveness of software security
+- Auditing and logging of changes
+- Risk analysis and mitigation
+
+### 8.4 Assess security impact of acquired software
+- Commercial-off-the-shelf (COTS)
+- Open source
+- Third-party
+- Managed services (e.g., enterprise applications)
+- Cloud services (e.g., Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS))
+
+### 8.5 Define and apply secure coding guidelines and standards
+- Security weaknesses and vulnerabilities at the source-code level
+- Security of application programming interfaces (API)
+- Secure coding practices
+- Software-defined security
