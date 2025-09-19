@@ -481,3 +481,11 @@ data loss prevention (DLP), cloud access security broker (CASB))
 - Security of application programming interfaces (API)
 - Secure coding practices
 - Software-defined security
+
+
+## Additional Examination Information
+### Supplementary References
+Candidates are encouraged to supplement their education and experience by reviewing
+relevant resources that pertain to the CBK and identifying areas of study that may need
+additional attention.  
+View the full list of supplementary references at https://www.isc2.org/certifications/References
