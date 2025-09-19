@@ -1,3 +1,17 @@
+# Domain 5:  Domain 6: Security Assessment and Testing
+**_Weightage:_** _12%_
+
+### Table of Contents  
+
+|     | Topics                                                                                                                                  |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 6.1 | [Design and Validate Assessment, Test, and Audit Strategies](#61-design-and-validate-assessment-test-and-audit-strategies)              |
+| 6.2 | [Conduct security control testing](#62-conduct-security-control-testing)                                                                |
+| 6.3 | [Collect security process data (e.g., technical and administrative)](#63-collect-security-process-data-eg-technical-and-administrative) |
+| 6.4 | [Analyze test output and generate report](#64-analyze-test-output-and-generate-report)                                                  |
+| 6.5 | [Conduct or facilitate security audits](#65-conduct-or-facilitate-security-audits)                                                      |
+
+
 #
 ### 6.1 Design and Validate Assessment, Test, and Audit Strategies
 ### What it means
@@ -151,7 +165,7 @@ Analyzing test outputs and producing actionable reports ensures that security we
 
 
 #
-### 6.4 Analyze test output and generate reports
+### 6.5 Conduct or facilitate security audits
 ### What it means
 Security audits are systematic reviews of policies, procedures, and technical controls to verify that they comply with organizational standards, industry regulations, and security objectives. A CISSP professional either conducts these audits directly or facilitates them by coordinating with internal teams and external auditors. The goal is to identify gaps, ensure accountability, and provide assurance to stakeholders that security is managed effectively.
 
