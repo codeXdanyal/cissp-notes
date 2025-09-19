@@ -1,3 +1,27 @@
+# Domain 5:  Domain 7: Security Operations
+**_Weightage:_** _13%_
+
+### Table of Contents  
+
+|      | Topics                                                                                                                                                              |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7.1  | [Understand and comply with investigations](#71-understand-and-comply-with-investigations)                                                                          |
+| 7.2  | [Conduct logging and monitoring activities](#72-conduct-logging-and-monitoring-activities)                                                                          |
+| 7.3  | [Perform configuration management (CM) (e.g., provisioning, baselining, automation)](#73-perform-configuration-management-cm-eg-provisioning-baselining-automation) |
+| 7.4  | [Apply foundational security operations concepts](#74-apply-foundational-security-operations-concepts)                                                              |
+| 7.5  | [Apply resource protection](#75-apply-resource-protection)                                                                                                          |
+| 7.6  | [Conduct incident management](#76-conduct-incident-management)                                                                                                      |
+| 7.7  | [Operate and maintain detection and preventative measures](#77-operate-and-maintain-detection-and-preventative-measures)                                            |
+| 7.8  | [Implement and support patch and vulnerability management](#78-implement-and-support-patch-and-vulnerability-management)                                            |
+| 7.9  | [Understand and participate in change management processes](#79-understand-and-participate-in-change-management-processes)                                          |
+| 7.10 | [Implement recovery strategies](#710-implement-recovery-strategies)                                                                                                 |
+| 7.11 | [Implement disaster recovery (DR) processes](#712-test-disaster-recovery-plans-drp)                                                                                 |
+| 7.12 | [Test disaster recovery plans (DRP)](#713-participate-in-business-continuity-bc-planning-and-exercises)                                                             |
+| 7.13 | [Participate in Business Continuity (BC) planning and exercises](#714-implement-and-manage-physical-security)                                                       |
+| 7.14 | [Implement and manage physical security](#715-address-personnel-safety-and-security-concerns)                                                                       |
+| 7.15 | [Address personnel safety and security concerns](#715-address-personnel-safety-and-security-concerns)                                                               |
+
+
 #
 ### 7.1 Understand and comply with investigations
 ### What it means
