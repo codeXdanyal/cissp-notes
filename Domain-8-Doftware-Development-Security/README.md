@@ -1,3 +1,22 @@
+# Domain 8: Software Development Security
+**_Weightage:_** _10%_
+
+### Table of Contents  
+
+|     | Topics                                                                                                                                                               |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8.1 | [Understand and integrate security in the Software Development Life Cycle (SDLC)](#81-understand-and-integrate-security-in-the-software-development-life-cycle-sdlc) |
+| 8.2 | [Identify and apply security controls in software development ecosystems](#82-identify-and-apply-security-controls-in-software-development-ecosystems)               |
+| 8.3 | [Assess the effectiveness of software security](#83-assess-the-effectiveness-of-software-security)                                                                   |
+| 8.4 | [Assess security impact of acquired software](#84-assess-security-impact-of-acquired-software)                                                                       |
+| 8.5 | [Define and apply secure coding guidelines and standards](#85-define-and-apply-secure-coding-guidelines-and-standards)                                               |
+
+
+
+
+
+
+
 
 #
 ### 8.1 Understand and integrate security in the Software Development Life Cycle (SDLC)
