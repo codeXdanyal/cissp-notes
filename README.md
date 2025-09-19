@@ -3,7 +3,6 @@
 This repository contains **complete CISSP study notes** across all 8 domains, plus a dedicated folder for the official **CISSP Exam Outline**.  
 Each domain is in its own folder for easy navigation.  
 
-
 ## Coverage  
 
 - [x] [**Domain 1** – Security & Risk Management  ](./Domain-1-Security-Risk-Management/README.md)
