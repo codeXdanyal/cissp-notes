@@ -28,7 +28,7 @@ cissp-notes/
 ├── Domain-6-Security-Assessment-Testing/README.md
 ├── Domain-7-Security-Operations/README.md
 ├── Domain-8-Software-Development-Security/README.md
-└── cissp-exam-outline/README.md
+└── cissp-exam-outline.md
 ```
 
 ## How to Use  
